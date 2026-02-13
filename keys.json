@@ -1,6 +1,6 @@
 {
-  "trkhoa": {
-    "expire": "2026-03-01",
-    "status": "active"
+  "keys": {
+    "trkhoa-KEYVIP": { "expire": "2026-03-01", "max_users": 2, "users": [] },
+    "KEYPRO": { "expire": "2026-06-01", "max_users": 3, "users": [] }
   }
 }
